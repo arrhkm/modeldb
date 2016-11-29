@@ -1,0 +1,94 @@
+id,name,gender,start_job,warm_contract,warm_date,citizen_id,jamsostek_id,bank_account,npwp,email,non_aktif,photoprofile,departement_id
+BRP001,Luluk Aryuni,f,2015-01-02,0,0000-00-00,,,,,luluk@brp.co.id,,,null
+S02004,Imam Wahyudi,m,0000-00-00,1,0000-00-00,,,68147796,,imam@lintech.co.id,,,null
+S03005,Ahmad Zarkarsi,m,0000-00-00,0,0000-00-00,,,69184410,,zarkarsi@lintech.co.id,,,null
+S04006,Jonny Asra,m,0000-00-00,0,0000-00-00,,,54295401,,jonny_asra@lintech.co.id,,,null
+S04007,Tatuk Bargijono,m,0000-00-00,0,0000-00-00,,,68147275,,tatuk@lintech.co.id,,,null
+S04008,Ahmad Fudholi,m,0000-00-00,0,0000-00-00,,,68145755,,ahmad_fudholi@lintech.co.id,,,null
+S05009,Yuri Widyastuti,f,0000-00-00,0,0000-00-00,,,68650440,,accounting_staff@lintech.co.id,,,null
+S05010,Adi Irmantyo,m,0000-00-00,0,0000-00-00,,,68145483,,adi_irmantyo@lintech.co.id,,,null
+S05013,Kuncoro,m,0000-00-00,0,0000-00-00,,,85085883,,,,,null
+S05015,Rianto Halim,,0000-00-00,0,0000-00-00,,,0222664482,,rianto_halim@lintech.co.id,,,null
+S05019,Neni Rahayu,f,2015-04-01,0,0000-00-00,Surabaya,,105153969,,neni@lintech.co.id,,,null
+S06021,Dicky Hari Joko Irawan,m,0000-00-00,0,0000-00-00,,,105132520,,dicky@lintech.co.id,,,null
+S06023,Nia Nelviza,f,0000-00-00,0,0000-00-00,,,0182730186,,nia_nelviza@lintech.co.id,,,null
+S06024,Nur Aini,f,0000-00-00,0,0000-00-00,,,105155220,,accounting_head@lintech.co.id,,,null
+S06026,Ahmad,m,0000-00-00,0,0000-00-00,,,105155843,,ahmad@lintech.co.id,,,null
+S06027,Hendro Susilo,m,0000-00-00,0,0000-00-00,,,108208566,,hendro@lintech.co.id,,,null
+S06030,Daniel Ariefin Soendjoto,m,0000-00-00,0,0000-00-00,,,345276239,,d.ariefin@lintech.co.id,,,null
+S07032,Muhammad Nadzir Zaini,m,0000-00-00,0,0000-00-00,,,118091893,,,,,null
+S07034,Mochmmad Arifin,m,0000-00-00,0,0000-00-00,,,0132858742,,arifin@lintech.co.id,,,null
+S07035,Pudji Arijadi,,0000-00-00,0,0000-00-00,,,0136701819,,pudji@lintech.co.id,,,null
+S08041,Nizma Hasbiyasari,,,0,0000-00-00,,,,,nizma@lintech.co.id,,,null
+S08042,Dessy Nurmasari,,,0,0000-00-00,,,,,dessy@lintech.co.id,,,null
+S08043,Nefertitie Anggen,,,0,0000-00-00,,,,,evie@lintech.co.id,,,null
+S08044,Benny Kurniawan,,,0,0000-00-00,,,,,benny@lintech.co.id,,,null
+S08047,Haryono,,0000-00-00,0,0000-00-00,,,,,haryono@lintech.co.id,,,null
+S08048,Arlika Widya Manggar Sari,,,0,0000-00-00,,,,,arlika@lintech.co.id,,,null
+S08049,Anita Yuliana,,,0,0000-00-00,,,,,anita@lintech.co.id,,,null
+S08052,Khushoyin,,0000-00-00,0,0000-00-00,,,,,soyin@lintech.co.id,,,null
+S08054,Ari Susanto,,,0,0000-00-00,,,,,ary_susanto@lintech.co.id,,,null
+S08057,R. Ichwanul Hakim,,0000-00-00,0,0000-00-00,,,,,ichwan_hakim@lintech.co.id,,,null
+S08058,Agus Budiono,,,0,0000-00-00,,,,,agus_b@lintech.co.id,,,null
+S09063,Ahmad Zainuddin,m,0000-00-00,0,2017-02-02,,,,,,,,null
+S09065,Akhmad Zamroni,,,0,0000-00-00,,,,,zamroni@lintech.co.id,,,null
+S09070,Andri Hermawan,,,0,2015-06-01,,,,,andri_hermawan@lintech.co.id,,,null
+S09074,Novi Kurniawan,,,0,2016-03-18,,,,,novi@lintech.co.id,,,null
+S09078,Muhammad Arraf Hakam,f,2014-12-03,1,0000-00-00,,,,,hakam@lintech.co.id,,,null
+S10086,Yulianto Noor Hidayat,,,0,2016-08-08,,,,,yulianto@lintech.co.id,,,null
+S10091,Made Astawa Adi Dharma,,,0,0000-00-00,,,,,made_aad@lintech.co.id,,,null
+S10094,Bondan Cahyadi,,,0,2015-08-22,,,,,bondan@lintech.co.id,,,null
+S11103,Abdul Syakur,,0000-00-00,0,2015-04-30,,,,,saqur@lintech.co.id,,,null
+S11108,Agus Rohadi Wibowo,,0000-00-00,0,2015-03-17,,,,,agus_rw@lintech.co.id,,,null
+S11109,Arif Sujono Hadi Saputro,,,0,0000-00-00,,,,,arif_soejono@lintech.co.id,,,null
+S11110,Agus Hermawan,,0000-00-00,0,0000-00-00,,,,,agus_hermawan@lintech.co.id,,,null
+S11117,David Kurniawan,m,0000-00-00,0,2016-01-18,,,,,david_kurniawan@lintech.co.id,,,null
+S11123,Andhita Raheng Permadhi,,,0,2015-02-19,,,,,raheng.permadhi@lintech.co.id,,,null
+S11133,Agung Joko Purnomo,,,0,2014-12-10,,,,,agung@lintech.co.id,,,null
+S11134,Satriyo Luhur Prasetyo,,,0,2015-06-15,,,,,satriyo@lintech.co.id,,,null
+S11140,Ilham,,,0,2015-10-01,,,,,ilham@lintech.co.id,,,null
+S11142,Zulfikar Rusdi Firmansyah,,0000-00-00,0,0000-00-00,,,,,zulfikar@lintech.co.id,,,null
+S11148,Choirul Huda,,,0,2015-04-14,,,,,choirul_huda@lintech.co.id,,,null
+S11149,Yuniati,,,0,2016-10-07,,,,,hse@lintech.co.id,,,null
+S11152,Anthon Widodo,,,0,2016-05-01,,,,,anthon@lintech.co.id,,,null
+S11158,Exiardhi Sri Wiyono Aji,,,0,2015-06-07,,,,,exiardhi@lintech.co.id,,,null
+S11159,Naharis Salam,,,0,0000-00-00,,,,,naharis@lintech.co.id,,,null
+S11162,Peni Choidjah,,,0,2015-08-01,,,,,peni@lintech.co.id,,,null
+S11165,Muhammad Hoir,,0000-00-00,0,2016-05-17,,,,,hoir@lintech.co.id,,,null
+S12173,Awik Priono,,,0,2015-04-17,,,,,awik@lintech.co.id,,,null
+S12176,Sugeng Cahyo Wiyono,,0000-00-00,0,2016-02-01,,,,,sugeng@lintech.co.id,,,null
+S12181,Asnan Wijaya,,0000-00-00,0,0000-00-00,,,,,asnan@lintech.co.id,,,null
+S12183,Media Lestika Sari,f,0000-00-00,0,2015-07-08,,,,,media@lintech.co.id,,,null
+S12187,Yudha Anggara,,,0,2017-02-01,,,,,yudha@lintech.co.id,,,null
+S12189,Winda Sulistiana,,,0,2015-06-04,,,,,winda@lintech.co.id,,,null
+S12194,Siwi Dwi Lestari,,,0,2016-05-01,,,,,siwi@lintech.co.id,,,null
+S13198,Achmad Syaiful Faried,m,0000-00-00,0,2015-05-15,,,,,,,,null
+S13200,Made Endra Purwata,,,0,2016-02-08,,,,,made_endra@lintech.co.id,,,null
+S13206,Heru Darmawan,,,0,2015-06-02,,,,,heru_darmawan@lintech.co.id,,,null
+S13208,Andry Widya Putra,m,2013-03-15,0,2015-04-09,,,,,andre@lintech.co.id,,,null
+S13209,Dian Agustina Retnowati,,,0,2015-06-16,,,,,dian_agustina@lintech.co.id,,,null
+S13210,M Saiful Hidayat,,,0,2015-02-15,,,,,,,,null
+S13213,Handy Susanto,,,0,2015-07-30,,,,,handhy@lintech.co.id,,,null
+S13218,Endro Budiono,m,0000-00-00,0,0000-00-00,,,,,endro_budiono@lintech.co.id,,,null
+S13219,Zudva Widiaranma Putri,,,0,2015-02-11,,,,,zudva@lintech.co.id,,,null
+S13220,Abdul Majid,,,0,2015-03-03,,,,,majid@lintech.co.id,,,null
+S13223,Heri Kurniawan,m,0000-00-00,0,0000-00-00,,,,,heri@lintech.co.id,,,null
+S13224,Noval Robiq,,,0,2014-12-16,,,,,noval@lintech.co.id,,,null
+S14231,Sugiono Setiawan,,,0,2015-03-03,,,,,sugiono_setiawan@lintech.co.id,,,null
+S14233,Shafarudin Shafar,,,0,2016-06-05,,,,,shafarudin@lintech.co.id,,,null
+S14235,M Irfan Samsu Nuhan,,,0,2015-06-03,,,,,irfan_nuhan@lintech.co.id,,,null
+S14239,Rina Buawan Fatmawati,,,0,2015-06-18,,,,,rina@lintech.co.id,,,null
+S14243,Dede Afrianto,,,0,2015-06-24,,,,,dede_afrianto@lintech.co.id,,,null
+S14246,Akhmad Hisyam,m,2014-04-07,0,2015-01-07,Malang,,,,hisyam@lintech.co.id,,,null
+S14252,Sugiarto,,,0,2016-01-28,,,,,sugiarto@lintech.co.id,,,null
+S14256,Wahyu Diah Aliani,,,0,0000-00-00,,,,,,,,null
+S14260,Agus Sigit Susanto,,,0,0000-00-00,,,,,agus_santoso@lintech.co.id,,,null
+S14264,Istianah,,,0,2015-06-06,,,,,isti@lintech.co.id,,,null
+S14265,Indah Heriningrum,,,0,2015-08-04,,,,,indah@lintech.co.id,,,null
+S14269,Agus Santoso,m,2014-11-21,1,2015-05-21,Indonesia,0,0,0,agus_santoso@lintech.co.id,,,null
+S15274,Achmad Faizal,m,2015-03-09,1,2015-06-09,,,,,achmad_faizal@lintech.co.id,,,null
+S15280,Dewi Ari Cahyanti,f,2015-10-12,1,2016-01-12,Indonesia,,,,dewiaricahyanti@gmail.com,,,null
+S15282,Muhammad Reza Al Haq,m,2015-10-21,0,0000-00-00,,,,,muhammad.reza@ymail.com,,,null
+S15283,Nurma Virgian Masudiana,f,2015-11-02,0,0000-00-00,,,,,nurma@lintech.co.id,,,null
+S15291,Muhammad Yusuf,m,2016-01-27,0,0000-00-00,Indonesia,,,,yusuf@lintech.co.id,,,null
+S15292,Thoriq M Azam,m,2016-02-11,0,0000-00-00,,,,,azam@lintech.co.id,,,null
